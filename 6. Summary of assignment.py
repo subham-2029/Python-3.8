@@ -10,5 +10,4 @@ print("code =", code)
 print("pi =", pi)
 print("pop_of_india =", pop_of_india)
 print("msg =", msg)
-print("num =", num, ", amt =", amt, ", code =", code, ", pi =",
-        pi, ", pop_of_india =", pop_of_india, ", msg =", msg)   
+print("num =", num, ", amt =", amt, ", code =", code, ", pi =",pi, ", pop_of_india =", pop_of_india, ", msg =", msg)   

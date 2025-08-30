@@ -1,0 +1,3 @@
+# Program to reassign a value 
+val="Hello"
+print(val)
